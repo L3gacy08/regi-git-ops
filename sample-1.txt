@@ -1,0 +1,5 @@
+name = regi
+class = 6
+desired income = > $500K
+desired country = A non-western country
+favorite candy = twizzlers
